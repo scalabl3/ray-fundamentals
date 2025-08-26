@@ -1,0 +1,8 @@
+REF*
+CLAUDE.md
+__pycache__
+.cursor/
+.specstory
+.specstory/
+.DS_Store
+.cursorindexingignore
