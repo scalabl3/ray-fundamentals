@@ -6,11 +6,11 @@ Complete preparation materials for understanding Ray Core fundamentals.
 
 This repository contains 5 comprehensive Python files that progressively build your Ray Core expertise:
 
-1. **ray-core-01-fundamentals.py** - Ray basics, initialization, tasks, ObjectRefs
-2. **ray-core-02-advanced-tasks.py** - Task dependencies, error handling, performance patterns  
-3. **ray-core-03-actors.py** - Stateful computing, actor patterns, lifecycle management
-4. **ray-core-04-debugging.py** - Troubleshooting, performance debugging, distributed issues
-5. **ray-core-05-scenarios.py** - Complete scenarios and challenges
+1. **01-ray-core-fundamentals.py** - Ray basics, initialization, tasks, ObjectRefs
+2. **02-ray-core-advanced-tasks.py** - Task dependencies, error handling, performance patterns  
+3. **03-ray-core-actors.py** - Stateful computing, actor patterns, lifecycle management
+4. **04-ray-core-debugging.py** - Troubleshooting, performance debugging, distributed issues
+5. **05-ray-core-scenarios.py** - Complete scenarios and challenges
 
 ## Technical Details
 
@@ -42,11 +42,11 @@ python run_all_tests.py
 
 ### Run Individual Files
 ```bash
-python ray-core-01-fundamentals.py
-python ray-core-02-advanced-tasks.py
-python ray-core-03-actors.py
-python ray-core-04-debugging.py
-python ray-core-05-scenarios.py
+python 01-ray-core-fundamentals.py
+python 02-ray-core-advanced-tasks.py
+python 03-ray-core-actors.py
+python 04-ray-core-debugging.py
+python 05-ray-core-scenarios.py
 ```
 
 ## 📚 Learning Path
@@ -54,26 +54,26 @@ python ray-core-05-scenarios.py
 ### Lesson Timeline
 
 **Lesson 1: Fundamentals**
-- Run and understand `ray-core-01-fundamentals.py`
+- Run and understand `01-ray-core-fundamentals.py`
 - Master Ray initialization, tasks, ObjectRefs
 - Practice basic parallel patterns
 - Key concepts: `ray.remote`, `ray.get()`, `ray.put()`
 
 **Lesson 2: Advanced Tasks & Actors**
-- Study `ray-core-02-advanced-tasks.py` 
+- Study `02-ray-core-advanced-tasks.py` 
 - Learn task dependencies and chaining
-- Master `ray-core-03-actors.py`
+- Master `03-ray-core-actors.py`
 - Understand when to use actors vs tasks
 - Key concepts: Stateful computation, parameter servers
 
 **Lesson 3: Debugging & Performance**
-- Work through `ray-core-04-debugging.py`
+- Work through `04-ray-core-debugging.py`
 - Learn performance debugging techniques
 - Practice with Ray Dashboard
 - Key concepts: Memory management, resource monitoring
 
 **Lesson 4: Scenarios**
-- Complete `ray-core-05-scenarios.py`
+- Complete `05-ray-core-scenarios.py`
 - Practice explaining solutions
 - Review common questions
 - Mock practice

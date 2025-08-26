@@ -775,5 +775,5 @@ QUESTIONS TO MASTER:
 4. "How do you debug slow actor performance?" -> Monitor blocking calls
 5. "What's a parameter server pattern?" -> ML coordination with actors
 
-NEXT: Practice with ray-core-04-debugging.py for troubleshooting skills!
+NEXT: Practice with 04-ray-core-debugging.py for troubleshooting skills!
 """ 

@@ -84,11 +84,11 @@ def main():
     
     # List of files to test
     test_files = [
-        "ray-core-01-fundamentals.py",
-        "ray-core-02-advanced-tasks.py", 
-        "ray-core-03-actors.py",
-        "ray-core-04-debugging.py",
-        "ray-core-05-scenarios.py"
+        "01-ray-core-fundamentals.py",
+        "02-ray-core-advanced-tasks.py", 
+        "03-ray-core-actors.py",
+        "04-ray-core-debugging.py",
+        "05-ray-core-scenarios.py"
     ]
     
     # Check if files exist

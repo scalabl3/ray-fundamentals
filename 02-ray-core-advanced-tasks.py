@@ -588,5 +588,5 @@ COMMON QUESTIONS:
 3. "How do you optimize performance?" -> Resource specs and chunking
 4. "How do you debug slow tasks?" -> Timing analysis and monitoring
 
-NEXT: Practice with ray-core-03-actors.py for stateful computing!
+NEXT: Practice with 03-ray-core-actors.py for stateful computing!
 """ 

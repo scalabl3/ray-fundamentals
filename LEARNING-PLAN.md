@@ -4,34 +4,34 @@ Perfect! I've created a comprehensive Ray Core preparation system for you. Here'
 
 ### **5 Progressive Learning Files Created:**
 
-1. **`ray-core-01-fundamentals.py`** ⭐ **CORE ESSENTIALS**
+1. **`01-ray-core-fundamentals.py`** ⭐ **CORE ESSENTIALS**
    - Ray initialization & shutdown 
    - `@ray.remote`, ObjectRefs, `ray.get()`, `ray.put()`
    - Sequential vs parallel execution patterns
    - Common mistakes and debugging tips
 
-2. **`ray-core-02-advanced-tasks.py`** 🚀 **ADVANCED PATTERNS**
+2. **`02-ray-core-advanced-tasks.py`** 🚀 **ADVANCED PATTERNS**
    - Task dependencies and chaining
    - Dynamic task creation (recursive patterns)
    - Error handling and fault tolerance
    - Performance optimization techniques
    - Real-world scenarios (web scraping, batch processing)
 
-3. **`ray-core-03-actors.py`** 🎭 **STATEFUL COMPUTING**
+3. **`03-ray-core-actors.py`** 🎭 **STATEFUL COMPUTING**
    - When to use actors vs tasks
    - Stateful computation patterns
    - Actor-task interaction (parameter servers)
    - Performance considerations and anti-patterns
    - Resource management and cleanup
 
-4. **`ray-core-04-debugging.py`** 🔧 **TROUBLESHOOTING MASTER**
+4. **`04-ray-core-debugging.py`** 🔧 **TROUBLESHOOTING MASTER**
    - Memory management and object store issues
    - Performance debugging and profiling
    - Distributed debugging techniques
    - Ray Dashboard usage
    - Common error patterns and solutions
 
-5. **`ray-core-05-scenarios.py`** 💼 **COMPLETE CHALLENGES**
+5. **`05-ray-core-scenarios.py`** 💼 **COMPLETE CHALLENGES**
    - Distributed data processing pipeline
    - ML parameter server implementation  
    - Real-time monitoring system
@@ -67,15 +67,15 @@ Perfect! I've created a comprehensive Ray Core preparation system for you. Here'
 
 ### **Day 1 (Today): Fundamentals**
 ```bash
-python ray-core-01-fundamentals.py
+python 01-ray-core-fundamentals.py
 ```
 - Master Ray basics, ObjectRefs, parallel patterns
 - Understand `ray.remote`, `ray.get()`, `ray.put()`
 
 ### **Day 2: Advanced Tasks & Actors**
 ```bash
-python ray-core-02-advanced-tasks.py
-python ray-core-03-actors.py
+python 02-ray-core-advanced-tasks.py
+python 03-ray-core-actors.py
 ```
 - Learn task chaining and dependencies
 - Master when to use actors vs tasks
@@ -83,7 +83,7 @@ python ray-core-03-actors.py
 
 ### **Day 3: Debugging & Performance**
 ```bash
-python ray-core-04-debugging.py
+python 04-ray-core-debugging.py
 ```
 - Practice performance debugging
 - Learn Ray Dashboard usage
@@ -91,7 +91,7 @@ python ray-core-04-debugging.py
 
 ### **Day 4 (Thursday): Scenarios**
 ```bash
-python ray-core-05-scenarios.py
+python 05-ray-core-scenarios.py
 ```
 - Complete full challenges
 - Practice explaining solutions out loud
